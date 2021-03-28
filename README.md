@@ -1,6 +1,6 @@
 
- ## 👋 Hi, I’m Priyanshu
- 
+##  Hi, I’m Priyanshu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+
 - 👀 I’m interested in just everything...
 - 🌱 I’m currently learning React as well as other Frameworks..
 - 💞️ I’m looking to collaborate on React and web development projects
