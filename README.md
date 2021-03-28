@@ -31,3 +31,6 @@ You can click the Preview link to take a look at your changes.
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
+
+---
+<p align = "center"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&hide=stars&include_all_commits=true&custom_title=Priyanshu's%20Github%20Stats "/> </p>
