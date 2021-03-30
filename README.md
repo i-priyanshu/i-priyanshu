@@ -35,4 +35,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-<p align = "center"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&hide=stars&include_all_commits=true&custom_title=Priyanshu's%20Github%20Stats "/> </p>
+<p align = "center"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&include_all_commits=true&custom_title=Priyanshu's%20Github%20Stats "/> </p>
