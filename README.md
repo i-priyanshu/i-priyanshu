@@ -1,6 +1,8 @@
 
 ##  Hi, I’m Priyanshu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
+<p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=i-priyanshu&repo=i-priyanshu&countColorcountColor&countColor=%237B1E7A" /></p>
+
 - 👀 I’m interested in just everything...
 - 🌱 I’m currently learning React as well as other Frameworks..
 - 💞️ I’m looking to collaborate on React and web development projects
