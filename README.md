@@ -1,5 +1,5 @@
 
-##  Hi, I’m Priyanshu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+##  Hi, I’m Priyanshu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
 
 <p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=i-priyanshu&repo=i-priyanshu&countColorcountColor&countColor=%237B1E7A" /></p>
 
