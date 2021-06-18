@@ -34,10 +34,13 @@ You can click the Preview link to take a look at your changes.
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-<p align = "center"><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&include_all_commits=true&custom_title=Priyanshu s%20Github%20Stats"/>
+<p align="center">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&custom_title=Priyanshu s%20Github%20Stats" width=470/>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=i-priyanshu&theme=cobalt&background=193549&fire=orange&dates=193549&currStreakLabel=63C99D"  width = 470/>
 </p>
 
- <hr/>
+<hr/>
 <h2 align ="center">Show some ❤️ by starring some of the repositories!</h2>
