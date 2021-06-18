@@ -36,9 +36,17 @@ You can click the Preview link to take a look at your changes.
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
 
+### Others:
+<p float="left">
+  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="StyledC" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
 <p align="center">
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&custom_title=Priyanshu s%20Github%20Stats" width=420/>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=i-priyanshu&theme=cobalt&background=193549&fire=orange&dates=193549&currStreakLabel=63C99D"  width = 420/>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&custom_title=Priyanshu s%20Github%20Stats"/>
 </p>
 
 <hr/>
