@@ -1,5 +1,6 @@
+![image](https://user-images.githubusercontent.com/70953098/125309699-95cb9200-e34f-11eb-9721-4240191c6b27.png)
 
-##  Hi, I’m Priyanshu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
+<h1 align="center"> Hi, I’m Priyanshu <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> </h1>
 
 <p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=i-priyanshu&repo=i-priyanshu&countColorcountColor&countColor=%237B1E7A" /></p>
 
