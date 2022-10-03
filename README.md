@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=i-priyanshu&show_icons=true&theme=cobalt&border-radius=1&custom_title=Priyanshu s%20Github%20Stats"/>
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-priyanshu&show_icons=true&theme=radical)
 </p>
 
 ### Reach me at:
